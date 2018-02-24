@@ -1,6 +1,6 @@
 {
 	"name": "alter-alfred-workflow-variables",
-  "version": "0.0.2",
+  "version": "0.0.3",
 	"description": "Alter workflow environment variables",
 	"license": "MIT",
 	"repository": "jeppestaerk/alter-alfred-workflow-variables",

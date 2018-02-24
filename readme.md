@@ -13,7 +13,8 @@ $ npm install alter-alfred-workflow-variables
 ## Usage
 
 ```js
-const variables = require('alter-alfred-workflow-variables');
+const AAWV = require('alter-alfred-workflow-variables');
+const variables = new AAWV();
 
 variables.set('foo', 'bar');
 
