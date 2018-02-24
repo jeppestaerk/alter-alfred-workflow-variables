@@ -1,0 +1,25 @@
+{
+	"name": "alfred-workflow-environment-variables",
+	"version": "0.0.0",
+	"description": "Alter workflow environment variables",
+	"license": "MIT",
+	"repository": "jeppestaerk/alfred-workflow-environment-variables",
+	"author": {
+		"name": "Jeppe Stærk",
+		"email": "jeppe@staerk.io",
+		"url": "staerk.io"
+	},
+	"engines": {
+		"node": ">=4"
+	},
+	"scripts": {
+	},
+	"files": [
+		"index.js"
+	],
+	"keywords": [
+		""
+	],
+	"dependencies": {},
+	"devDependencies": {}
+}
