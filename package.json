@@ -1,9 +1,9 @@
 {
-	"name": "alfred-workflow-environment-variables",
-	"version": "0.0.0",
+	"name": "alter-alfred-workflow-variables",
+	"version": "0.0.1",
 	"description": "Alter workflow environment variables",
 	"license": "MIT",
-	"repository": "jeppestaerk/alfred-workflow-environment-variables",
+	"repository": "jeppestaerk/alter-alfred-workflow-variables",
 	"author": {
 		"name": "Jeppe Stærk",
 		"email": "jeppe@staerk.io",
@@ -12,14 +12,22 @@
 	"engines": {
 		"node": ">=4"
 	},
-	"scripts": {
-	},
+	"scripts": {},
 	"files": [
 		"index.js"
 	],
 	"keywords": [
-		""
+		"alfred",
+		"alfred3",
+		"alfred-workflow",
+		"alfred3-workflow",
+		"alfred-variables",
+		"alfred3-variables",
+		"alfred-workflow-variables",
+		"alfred3-workflow-variables"
 	],
-	"dependencies": {},
+	"dependencies": {
+		"plist": "^2.1.0"
+	},
 	"devDependencies": {}
 }
